@@ -25,7 +25,7 @@ static string CalculateVoronoi(
 		[Slot(0, Binding.MeshUV0)] Vector2 UV,
 		[Slot(1, Binding.None, 2.0f, 0, 0, 0)] Vector1 Height,
 		[Slot(2, Binding.None, 5.0f, 5.0f, 5.0f, 5.0f)] Vector1 CellDensity,
-		[Slot(3, Binding.None)] Vector3 Period,
+		[Slot(3, Binding.None, 2.0f, 2.0f, 2.0f, 2.0f)] Vector3 Period,
 		[Slot(4, Binding.None)] out Vector1 Voronoi,
 		[Slot(5, Binding.None)] out Vector1 Cells,
 		[Slot(6, Binding.None)] out Vector1 CellBorder) {
