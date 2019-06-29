@@ -12,3 +12,5 @@ The second output is only the cells of the voronoi ![Cells](https://github.com/X
 
 And the last one is for the borders of the cells ![Borders](https://github.com/Xentiie/SeamlessVoronoi/tree/master/Screenshots/VoronoiExemple3.PNG)
 
+
+Also, if you want to make a sphere with a this node, I recommend you to use an icosphere better than the normal sphere from unity. It looks better.
