@@ -1,6 +1,8 @@
 # SeamlessVoronoi
 Seamless voronoi custom node for the Unity's shader graph.
 
+Made with this tutorial: https://www.ronja-tutorials.com/2018/10/06/tiling-noise.html
+
 # How to use the node: 
 The node have 4 inputs and 3 outputs. The first input: UV. It is ,you guessed it, for any kind of UV. The second one: Height, is used as a variation for the voronoi. Use for exemple with a time node multiplied by 0.1. The third: CellDensity, is a zoom for more/less cells created. And the last input: Period. It represent how often the noise tile.
 
